@@ -1,0 +1,7 @@
+enter url
+enter email
+enter password
+click signup
+
+added authentication
+added error messages
