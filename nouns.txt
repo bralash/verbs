@@ -1,0 +1,9 @@
+enter url
+enter email
+enter password
+click sign in
+
+if user is not logged in
+    redirect to login page
+else
+    redirect to home page
