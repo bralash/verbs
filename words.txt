@@ -1,0 +1,4 @@
+enter url
+enter email
+enter password
+click signup
